@@ -1,5 +1,5 @@
 ### Hi👋! 
-I am Juma Kiwaka, a software developer. I currently focus on building for the web using javascript and it's associated libraries and frameworks such as react, angular and node. I like to challenge myself to do more than what is expected of me or what I think I am capable of doing😄. I am constantly leveling up on technologies that I am currently using or those that I am interesting in using later on. On the side, I also love cycling:bike:, football:soccer: and reading books:book: about life, money, psychology and people!
+I am Juma Kiwaka, a software developer. I currently focus on building for the web. I like to challenge myself to do more than what is expected of me or what I think I am capable of doing😄. I am constantly leveling up on technologies that I am currently using or those that I am interesting in using later on. On the side, I also love cycling:bike:, football:soccer: and reading books:book: about life, money, psychology and people!
 
 <!--
 **jumakiwaka/jumakiwaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
