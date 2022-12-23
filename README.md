@@ -255,7 +255,7 @@ Here are some ideas to get you started:
 </table>
 -->
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /> </h3>  
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="./assets/icons/handshake.gif" height="32px" style="margin-bottom: -5px;"  /> </h3>  
 
 <h3 align="center">
   <a href="https://www.linkedin.com/in/juma-kiwaka-7603b0181">
